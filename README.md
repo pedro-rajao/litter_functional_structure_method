@@ -2,6 +2,7 @@
 Date: 05/01/2024
 Author: Pedro Rajão 
 Language: Python
+Deep-learning and Vision Computational for LITTER FOREST FUNCTIONAL STRUCTURAL estimating.
 
 ##############################
 
